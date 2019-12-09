@@ -25,7 +25,7 @@ SECRET_KEY = 'vzfl9n_9*0rx_nkgl+m*n&p^z5dn$n&m*u+bgxcjhorutf4be%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', microservices.pythonanywhere.com]
+ALLOWED_HOSTS = ['127.0.0.1', 'mservices.pythonanywhere.com']
 
 
 # Application definition
